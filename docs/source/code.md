@@ -1,4 +1,4 @@
-# IP2Location.io Deno API
+# IP2WHOIS Deno API
 
 ## IP2WhoisApi Class
 
